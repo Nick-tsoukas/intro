@@ -1,0 +1,26 @@
+body {
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:3%;
+}
+li {
+  margin-bottom:2em;
+}
+
+.info {
+  font-size: 1.2em;
+}
+
+.maxHeight {
+  max-height: 500px;
+}
+.crop_ul {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+  margin-top:2em;
+}
+
+.crop {
+  max-height: 500px;
+}
